@@ -78,9 +78,9 @@ Each technique is tested with this topic for comparative output.
 Prompt: “Write a case study about remote work in a tech company.”
 
 # Output Quality:
-• Structure: ✖️ Weak
-• Coherence: ⚠️ Moderate
-• Insight: ⚠️ Generic
+• Structure: ✖️ Weak <br />
+• Coherence: ⚠️ Moderate <br />
+• Insight: ⚠️ Generic <br />
 # 2. Query Decomposition
 # Prompt Sequence:
 Describe the company and its structure.
@@ -89,24 +89,24 @@ What were the productivity outcomes?
 What lessons were learned post-implementation?
 
 # Output Quality:
-• Structure: ✅ Strong
-• Coherence: ✅ High
-• Insight: ✅ Deep
+• Structure: ✅ Strong  <br />
+• Coherence: ✅ High <br />
+• Insight: ✅ Deep <br />
 # 3. Decision-Making Prompt
 # Prompt: 
 “If the company is a startup, describe how flexibility improved innovation. If it's an enterprise, focus on operational scalability during remote adoption.”
 
 # Output Quality:
-• Structure: ✅ Adaptive
-• Coherence: ✅ High
-• Insight: ✅ Tailored
+• Structure: ✅ Adaptive <br />
+• Coherence: ✅ High <br />
+• Insight: ✅ Tailored <br />
 4. Semantic Filtering
 Prompt: “Write a case study about remote work in a tech company based only on 2020–2023 peer-reviewed studies and employee surveys.”
 
 Output Quality:
-• Structure: ✅ Scoped
-• Coherence: ✅ Strong
-• Insight: ✅ Evidence-based
+• Structure: ✅ Scoped <br />
+• Coherence: ✅ Strong <br />
+• Insight: ✅ Evidence-based <br />
 
 # 5. Few-Shot Prompting
 # Prompt:
@@ -115,17 +115,17 @@ Example 2: A case study about agile teams in remote environments.
 Then: “Now write a case study on remote work in a tech company using the above format.”
 
 # Output Quality:
-• Structure: ✅ Consistent
-• Coherence: ✅ High
-• Insight: ⚠️ Moderate (depends on example quality)
+• Structure: ✅ Consistent <br />
+• Coherence: ✅ High <br />
+• Insight: ⚠️ Moderate (depends on example quality) <br />
 
 # 6. Role-Based Prompting
 # Prompt:
 “As an HR Director of a mid-size tech company, write a personal account of how remote work evolved in your team.”
 # Output Quality:
-• Structure: ✅ Narrative
-• Coherence: ✅ High
-• Insight: ✅ Authentic and practical
+• Structure: ✅ Narrative <br />
+• Coherence: ✅ High <br />
+• Insight: ✅ Authentic and practical <br />
 # Creative Content
 Example: Comic Book Scene
 # Scenario: An AI learns human emotions.
